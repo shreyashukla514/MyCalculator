@@ -1,8 +1,4 @@
 
-Ninkor Chandra Barman
-9:56 PM (0 minutes ago)
-to me
-
 # 🔢 Simple Calculator
 
 A basic and responsive calculator built using **HTML, CSS, and JavaScript**.
